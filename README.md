@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Maurya</h1>
 <h3 align="center">"Embarking on the Journey to Mastering Code: A Trainee's Path to Proficiency"</h3>
 
-- 🔭 I’m currently working on **Whatsapp-clone**[https://github.com/kuldeepmaurya4296/Real-time-chat] click here..
+- 🔭 I’m currently working on **Whatsapp-clone**[https://github.com/kuldeepmaurya4296/Real-time-chat] 
 
 - 🌱 I’m currently learning **Django, SQL**
 
