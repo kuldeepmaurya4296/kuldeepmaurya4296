@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Maurya</h1>
 <h3 align="center">"Embarking on the Journey to Mastering Code: A Trainee's Path to Proficiency"</h3>
 
-- 🔭 I’m currently working on **Whatsapp-clone**[https://github.com/kuldeepmaurya4296/Real-time-chat] 
+- 🔭 I’m currently working on **Flourishers Edge**[https://www.flourishersedge.com/] 
 
-- 🌱 I’m currently learning **Django, SQL**
+- 🌱 I’m currently learning **NextJS, Framer-Motion, ThreeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuldeepmaurya4296/](https://github.com/kuldeepmaurya4296/)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, MONGODB, JAVA, Python**
+- 💬 Ask me about **HTML, CSS,Tailwind Css, JS, REACT JS,NextJs, NodeJs, MONGODB, JAVA, Python**
 
 - 📫 How to reach me **kuldeepmaurya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gRY7xd60JYCucXyERXi_pEo9R9IGUesp/view?usp=drive_link](https://drive.google.com/file/d/1gRY7xd60JYCucXyERXi_pEo9R9IGUesp/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/153CE5_i0JxC4LCX5mSZG-x3M6FHuPzee/view?usp=sharing](https://drive.google.com/file/d/1gRY7xd60JYCucXyERXi_pEo9R9IGUesp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
