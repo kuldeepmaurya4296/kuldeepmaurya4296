@@ -8,7 +8,7 @@
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/kuldeepmaurya4296/)
 - 💬 Ask me about **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **Next.js**, **Node.js**, **MongoDB**, and **Java**
 - 📫 Reach me at [kuldeepmaurya@gmail.com](mailto:kuldeepmaurya@gmail.com)
-- 📄 View my [Resume](https://drive.google.com/file/d/1qF-7OKSjoMkQ0ZE4Znza41PFF3ylmbIF/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/1QEDO8bTjV41Ud9oJgp_PoSNMwH_NTZOv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" class='flex gap-3 flex-wrap'>
